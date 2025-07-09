@@ -5,18 +5,18 @@ Proyek ini bertujuan untuk membantu Manajemen Mekari dalam meninjau dan mengeval
 Mekari merupakan perusahaan SaaS yang berkembang pesat sejak 2015, dan kini memiliki lebih dari 35.000 pengguna. Memasuki tahun ke-7, manajemen ingin mengevaluasi apakah sistem penggajian saat ini masih efisien secara biaya, dengan membandingkan gaji per jam kerja nyata yang dikeluarkan untuk setiap cabang dan bulan.
 
 ### Tujuan Analisis
-Menghitung gaji per jam untuk setiap cabang dan bulan berdasarkan data jumlah karyawan dan jam kerja aktual.
+- Menghitung gaji per jam untuk setiap cabang dan bulan berdasarkan data jumlah karyawan dan jam kerja aktual.
 
-Menilai efektivitas skema penggajian berdasarkan kombinasi faktor: Gaji, Jam Kerja, dan Masa Kerja.
+- Menilai efektivitas skema penggajian berdasarkan kombinasi faktor: Gaji, Jam Kerja, dan Masa Kerja.
 
-Mengidentifikasi karyawan dengan efektivitas rendah yang dapat dipertimbangkan untuk PHK demi efisiensi anggaran.
+- Mengidentifikasi karyawan dengan efektivitas rendah yang dapat dipertimbangkan untuk PHK demi efisiensi anggaran.
 
 ### Teknologi yang Digunakan
-Python: Untuk persiapan, pembersihan, transformasi, dan analisis eksploratori data.
+- Python: Untuk persiapan, pembersihan, transformasi, dan analisis eksploratori data.
 
-SQL: Untuk perhitungan jam kerja, masa kerja, normalisasi data, dan perhitungan skor efektivitas penggajian.
+- SQL: Untuk perhitungan jam kerja, masa kerja, normalisasi data, dan perhitungan skor efektivitas penggajian.
 
-Tableau: Untuk membuat dasbor interaktif guna mendukung pengambilan keputusan strategis selama Rapat Anggaran Tahunan.
+- Tableau: Untuk membuat dasbor interaktif guna mendukung pengambilan keputusan strategis selama Rapat Anggaran Tahunan.
 
 # Alur Pengerjaan
 ## Persiapan & Pembersihan Data (Python)
