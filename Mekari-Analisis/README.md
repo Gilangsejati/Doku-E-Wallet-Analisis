@@ -59,5 +59,6 @@ Mekari merupakan perusahaan SaaS yang berkembang pesat sejak 2015, dan kini memi
 - Tren jam kerja vs efektivitas
 
 - Tabel kandidat PHK berdasarkan skor efektivitas
-  Tableau : [Tableau Public](https://public.tableau.com/app/profile/gilang.gemilang/vizzes)
+  
+Tableau : [Tableau Public](https://public.tableau.com/app/profile/gilang.gemilang/vizzes)
 
