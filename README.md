@@ -33,6 +33,7 @@ Di bagian ini saya mencantumkan beberapa proyek data analytics yang telah saya k
 
 📁 **Kode:** `Analyzing the Factors Contributing to the Success of a Movie.ipynb`  
 🎯 **Tujuan:** Mengevaluasi efektivitas biaya dari skema penggajian bulanan untuk lebih dari 1.400 karyawan Mekari berdasarkan gaji, jam kerja aktual, dan masa kerja.
+
 📝 **Deskripsi:**  Studi kasus ini dilakukan untuk perusahaan SaaS Mekari dengan lebih dari 1.400 karyawan. Analisis mencakup perhitungan gaji per jam berdasarkan cabang dan bulan, penilaian efektivitas skema penggajian berdasarkan kombinasi gaji, jam kerja, dan masa kerja, serta identifikasi karyawan dengan efektivitas rendah untuk pertimbangan efisiensi biaya.
 Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Dataset mencakup judul film, rating, genre, tanggal rilis, anggaran, pendapatan kotor, dan informasi relevan lainnya. Proyek meliputi proses pembersihan data, EDA (analisis eksploratif), analisis korelasi antara anggaran dan pendapatan kotor, serta pengujian statistik menggunakan Pearson correlation.
 
