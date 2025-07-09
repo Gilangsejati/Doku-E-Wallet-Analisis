@@ -58,7 +58,7 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 📌 File:  [Dashboard looker studio](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/dashboard/Doku_champaign.pdf)
 ### Fitur Dashboard
-- Interaktif: filter per kampanye, segmen pelanggan, merchant
+- Interaktif: filter per tanggal, campaign, merchant
 - Insight visual:
   - Total transaksi campaign
   - Top Pendapatan merchant
