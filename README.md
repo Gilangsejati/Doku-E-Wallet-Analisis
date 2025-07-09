@@ -1,8 +1,8 @@
-# 📊 Tianna Parris - Portofolio Data Analyst
+# Gilang Gemilang Sejati - Portofolio Data Analyst
 
 ## Tentang Saya
 
-Halo! Saya **Tianna**, berlatar belakang akademik di bidang **Biokimia** dan saat ini sedang menyelesaikan studi **Magister Sains di Data Science (M.S. Data Science)**. Saya memiliki fondasi yang kuat di bidang ilmu hayati serta semangat besar dalam menggunakan data untuk mengungkap wawasan yang bermakna.
+Halo! Saya **Gilang**, berlatar belakang akademik di bidang **Biokimia** dan saat ini sedang menyelesaikan studi **Magister Sains di Data Science (M.S. Data Science)**. Saya memiliki fondasi yang kuat di bidang ilmu hayati serta semangat besar dalam menggunakan data untuk mengungkap wawasan yang bermakna.
 
 Selama masa studi, saya terbiasa bekerja dengan data yang kompleks dan memiliki kemampuan dalam mengidentifikasi pola serta tren penting. Saya juga memiliki pengalaman dalam teknik laboratorium, manajemen data, dan analisis statistik—yang semuanya menjadi bekal berharga untuk berkarier sebagai spesialis data pemula.
 
