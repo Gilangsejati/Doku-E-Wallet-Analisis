@@ -31,7 +31,7 @@ Di bagian ini saya mencantumkan beberapa proyek data analytics yang telah saya k
 
 ### Analisis Efektivitas Biaya Skema Penggajian Karyawan Mekari
 
-📁 **Kode:** `Analyzing the Factors Contributing to the Success of a Movie.ipynb`  
+📌 File:  [Analisis Efektivitas Biaya Skema Penggajian Karyawan Mekari](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/tree/main/Mekari-Analisis)  
 **Tujuan:** Mengevaluasi efektivitas biaya dari skema penggajian bulanan untuk lebih dari 1.400 karyawan Mekari berdasarkan gaji, jam kerja aktual, dan masa kerja.
 
 **Deskripsi:** Studi kasus ini dilakukan untuk perusahaan SaaS Mekari dengan lebih dari 1.400 karyawan. Analisis mencakup perhitungan gaji per jam berdasarkan cabang dan bulan, penilaian efektivitas skema penggajian berdasarkan kombinasi gaji, jam kerja, dan masa kerja, serta identifikasi karyawan dengan efektivitas rendah untuk pertimbangan efisiensi biaya.
