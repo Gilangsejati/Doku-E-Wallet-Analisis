@@ -43,8 +43,8 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 - Hipotesis dan pengujian statistik  
 
 💻 **Teknologi:** Python, Sql, Tableau
-📊 **Hasil:**  
-Memberikan landasan berbasis data untuk mempertimbangkan optimalisasi distribusi tenaga kerja dan potensi perubahan skema penggajian di beberapa cabang.
+
+📊 **Hasil:**  Memberikan landasan berbasis data untuk mempertimbangkan optimalisasi distribusi tenaga kerja dan potensi perubahan skema penggajian di beberapa cabang.
 
 ---
 
