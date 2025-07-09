@@ -25,7 +25,7 @@ Dashboard ini memberikan visualisasi performa penjualan pizza dari Januari 2015 
   1. The Classic Deluxe Pizza
   2. The Barbecue Chicken Pizza
   3. The Hawaiian Pizza
-- **Bulan dengan Revenue Tertinggi:** Mei 2015 (\$35,471.60)
+- **Pada Mei 2015 transaksi melonjak dengan pendatapan tertinggi sebesar :**(\$35,471.60)
 - **Kategori classic menjadi Revenue Tertinggi sebesar:**(\$147,608.60)
 
 ## Fitur Dashboard
