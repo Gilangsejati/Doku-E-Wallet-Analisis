@@ -49,23 +49,23 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 
 ---
 
-### 🖥️ Analisis Penjualan Toko Teknologi
+### Pizza Sales Performance Dashboard
 
-📁 **Kode:** `Tech Store Sales Analysis.ipynb`  
-🎯 **Tujuan:** Menganalisis riwayat penjualan untuk mengevaluasi performa toko dan mencari peluang perbaikan.
+📌 File:  [Pizza Sales Performance Dashboard](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/tree/main/Pizza-sales-analisis)  
 
-📝 **Deskripsi:**  
-Dataset berisi daftar transaksi penjualan, termasuk informasi produk, ID pesanan, tanggal, harga, jumlah, dan alamat pembelian. Analisis mencakup proses pembersihan data, EDA, dan pengujian hipotesis.
+**Tujuan:** Memberikan wawasan visual mengenai performa penjualan pizza dari Januari 2015 hingga Januari 2016, untuk mendukung pengambilan keputusan bisnis.
 
-🛠️ **Keterampilan:**  
-- Visualisasi penjualan per bulan dan kota  
-- Analisis produk terlaris dan faktor penyebabnya  
+**Deskripsi:**  Dashboard ini dirancang untuk membantu tim penjualan dan manajemen dalam menganalisis tren penjualan, kategori produk, serta performa tiap varian pizza berdasarkan kuantitas dan pendapatan. Dilengkapi dengan slicer interaktif berdasarkan tanggal, ukuran, kategori, dan nama pizza.
 
-💻 **Teknologi:** Python, Pandas, Matplotlib
+**Keterampilan:**  
+- Pembuatan pivot table dan dashboard
+- Analisis tren penjualan dan segmentasi produk
+- Visualisasi interaktif dengan slicer dan grafik  
 
-📊 **Hasil:**  
-Ditemukan pola penjualan dominan berdasarkan bulan, kota, dan produk tertentu, yang dianalisis lebih lanjut untuk memberikan insight.
+**Teknologi:** Microsoft Excel
 
+**Hasil:**  
+Excel digunakan untuk menganalisis performa penjualan pizza berdasarkan data transaksi selama satu tahun. Hasil analisis menunjukkan bahwa kategori Classic merupakan yang paling laris dan menyumbang pendapatan tertinggi. 
 ---
 
 ### 🏘️ Pembersihan Data Perumahan Nashville
