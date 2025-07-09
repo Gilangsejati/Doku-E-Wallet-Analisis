@@ -56,13 +56,12 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ## Bagian 4: Dashboard Looker Studio
 
-📌 File: `dashboard/marketing_dashboard.twbx` atau link `.txt`
-
+📌 File:  [Dashboard looker studio](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/dashboard/Doku_champaign.pdf)
 ### Fitur Dashboard
 - Interaktif: filter per kampanye, segmen pelanggan, merchant
 - Insight visual:
-  - Volume dan pengeluaran per kampanye
-  - Top kategori merchant
-  - Segmentasi pelanggan dalam chart
-  - Distribusi Premium vs Non-Premium dalam keterlibatan kampanye
+  - Total transaksi campaign
+  - Top Pendapatan merchant
+  - Segmentasi pelanggan berdasarkan rata-rata paid_amount
+  - Tren transaksi bulanan
 
