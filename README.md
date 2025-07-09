@@ -43,8 +43,6 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 - SQL: Query joins, perhitungan jam kerja & masa kerja, pembuatan tabel terstandarisasi
 - Tableau: Visualisasi data interaktif, heatmap per cabang, pemetaan skor efektivitas
   
-Hasil: Terdapat perbedaan biaya gaji per jam antar cabang, dan 12% karyawan teridentifikasi memiliki efektivitas rendah. Hasil ini mendukung pengambilan keputusan strategis dalam optimalisasi tenaga kerja dan efisiensi anggaran.
-
 **Teknologi:** Python, Sql, Tableau
 
 **Hasil:** Memberikan landasan berbasis data untuk mempertimbangkan optimalisasi distribusi tenaga kerja dan potensi perubahan skema penggajian di beberapa cabang.
