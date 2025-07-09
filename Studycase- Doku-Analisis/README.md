@@ -38,7 +38,7 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ## Bagian 3: Analisis SQL Lanjutan
 
-📌 File: `sql/analysis_queries.sql`
+📌 File: [SQL query analisis](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/sql/sql-analisis-doku.sql)
 
 ### Pertanyaan Bisnis & Query SQL:
 1. **Kampanye Berkinerja Terbaik**
