@@ -24,6 +24,8 @@ Mekari merupakan perusahaan SaaS yang berkembang pesat sejak 2015, dan kini memi
 
 - Membersihkan data kosong, anomali pada tanggal, serta formatting kolom.
 
+  
+
 ### Preprocessing Data (Python)
 📌 File:  [Analisis Mekari with python](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Mekari-Analisis/scripts/Data_Preprocessing_Mekari.ipynb)
 
@@ -31,12 +33,16 @@ Mekari merupakan perusahaan SaaS yang berkembang pesat sejak 2015, dan kini memi
 
 - Menghitung jumlah hari kerja per karyawan setiap bulan.
 
+  
+
 ### Analisis Eksploratori (EDA)
  📌 File: [Analisis Mekari with python](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Mekari-Analisis/scripts/EDA_Mekari_.ipynb)
 
 - Visualisasi distribusi gaji, jam kerja, dan masa kerja.
 
 - Melihat tren cabang dengan efisiensi tertinggi dan terendah.
+
+  
 
 ## SQL Lanjutan – Skor Efektivitas Penggajian
  📌 File: [Analisis Mekari with SQL](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Mekari-Analisis/sql/sql-analis-mekari.sql)
@@ -49,6 +55,8 @@ Mekari merupakan perusahaan SaaS yang berkembang pesat sejak 2015, dan kini memi
 
 - Menandai karyawan dengan skor efektivitas rendah sebagai kandidat PHK.
 
+  
+
 ## Visualisasi Dashboard (Tableau)
 📌 File: [Dashboard Mekari](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Mekari-Analisis/dashboard/Dashboard%201%20(7).png)
           
@@ -59,6 +67,7 @@ Mekari merupakan perusahaan SaaS yang berkembang pesat sejak 2015, dan kini memi
 - Tren jam kerja vs efektivitas
 
 - Tabel kandidat PHK berdasarkan skor efektivitas
+  
   
   
 Tableau : [Tableau Public](https://public.tableau.com/app/profile/gilang.gemilang/vizzes)
