@@ -4,7 +4,7 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ---
 
-##Bagian 1: Persiapan & Pembersihan Data (Python)
+## Bagian 1: Persiapan & Pembersihan Data (Python)
 
 📌 File: `scripts/data_cleaning.py`, `notebooks/eda.ipynb`
 
