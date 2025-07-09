@@ -41,7 +41,7 @@ Dashboard ini memberikan visualisasi performa penjualan pizza dari Januari 2015 
   - Line Chart: Tren pendapatan per bulan
   - Stacked Column: Pendapatan berdasarkan kategori dan ukuran pizza
 
-## ujuan Analisis
+## Tujuan Analisis
 
 - Mengidentifikasi tren penjualan untuk mendukung keputusan bisnis
 - Mengetahui produk paling laris dan menguntungkan
