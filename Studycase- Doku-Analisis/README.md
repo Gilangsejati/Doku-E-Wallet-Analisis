@@ -1,4 +1,4 @@
-# KYC Marketing Campaign Analysis (2021–2024)
+# Doku KYC Marketing Campaign Analysis (2021–2024)
 
 Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi pelanggan, dan kinerja merchant menggunakan data transaksi dari tahun 2021 hingga 2024. Analisis dilakukan menggunakan Python, SQL, dan Tableau.
 
