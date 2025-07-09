@@ -4,7 +4,7 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ---
 
-## Bagian 1: Persiapan & Pembersihan Data (Python)
+## Persiapan & Pembersihan Data (Python)
 
 📌 File: `scripts/data_cleaning.py`, `notebooks/eda.ipynb`
 
@@ -17,7 +17,7 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ---
 
-## Bagian 2: EDA & Visualisasi (Python)
+## EDA & Visualisasi (Python)
 
 📌 File: [Analis Doku with python](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/scripts/DOKU.ipynb)
 
@@ -36,7 +36,7 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ---
 
-## Bagian 3: Analisis SQL Lanjutan
+## Analisis SQL Lanjutan
 
 📌 File: [SQL query analisis](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/sql/sql-analisis-doku.sql)
 
@@ -54,7 +54,7 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ---
 
-## Bagian 4: Dashboard Looker Studio
+## Dashboard Looker Studio
 
 📌 File:  [Dashboard looker studio](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/dashboard/Doku_champaign.pdf)
 ### Fitur Dashboard
@@ -65,3 +65,8 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
   - Segmentasi pelanggan berdasarkan rata-rata paid_amount
   - Tren transaksi bulanan
 
+## Insight
+Berdasarkan analisis dashboard kampanye DOKU, kampanye bertipe diskon kecil seperti "CEBAN" terbukti paling efektif menarik transaksi dalam jumlah besar. Sebagian besar pendapatan berasal dari beberapa merchant besar, menunjukkan pentingnya kemitraan strategis. Pengguna Premium mendominasi aktivitas transaksi, namun segmen Non-Premium tetap memberikan kontribusi yang signifikan. Terdapat pola musiman dengan lonjakan transaksi pada bulan-bulan tertentu seperti Agustus, serta rata-rata frekuensi transaksi per pengguna yang cukup baik, yaitu sekitar 4–5 kali. Dengan total lebih dari 100 ribu transaksi dari 23 ribu pelanggan unik, DOKU menunjukkan potensi besar dalam mempertahankan dan mengembangkan basis penggunanya.
+
+## Rekomendasi
+Fokuskan strategi kampanye pada promosi bertipe diskon langsung bernilai kecil yang terbukti efektif, perkuat kemitraan dengan merchant bernilai tinggi, dan tingkatkan loyalitas pelanggan Premium sembari mendorong konversi dari Non-Premium. Selain itu, manfaatkan momentum musiman untuk peluncuran kampanye besar, serta terapkan segmentasi pelanggan berdasarkan frekuensi dan pengeluaran untuk kampanye yang lebih terarah dan efisien.
