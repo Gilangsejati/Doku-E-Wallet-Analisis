@@ -1,18 +1,21 @@
-# 🍕 Pizza Sales Performance Dashboard
+# Pizza Sales Performance Dashboard
 
-![Dashboard Preview](dashboard_pizza.png)
 
-## 📊 Deskripsi Proyek
+
+## Deskripsi Proyek
 
 Dashboard ini memberikan visualisasi performa penjualan pizza dari Januari 2015 hingga Januari 2016. Dibuat untuk membantu tim penjualan dan manajemen dalam menganalisis tren penjualan, kategori produk, dan performa setiap varian pizza berdasarkan kuantitas maupun pendapatan.
 
-## 🔧 Tools dan Teknologi
+## Tools dan Teknologi
 
 - Microsoft Excel 
 - Dataset transaksi penjualan pizza
 - Visualisasi interaktif (slicer/filter untuk waktu, ukuran, kategori, dan nama pizza)
 
-## 📈 Ringkasan Insight
+## Ringkasan Insight
+
+📌 Dashboard: [Dashboard-Pizza](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Pizza-sales-analisis/dashboard.png)
+📌 Pivot-tabel: [Pivot-Tabel-Pizza](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Pizza-sales-analisis/susunan_pivot.pdf)
 
 - **Total Revenue:** \$398,036.80
 - **Total Orders:** 14,881 pesanan
@@ -23,9 +26,9 @@ Dashboard ini memberikan visualisasi performa penjualan pizza dari Januari 2015 
   2. The Barbecue Chicken Pizza
   3. The Hawaiian Pizza
 - **Bulan dengan Revenue Tertinggi:** Mei 2015 (\$35,471.60)
-- **Kategori dengan Revenue Tertinggi:** Classic (\$147,608.60)
+- **Kategori classic dengan Revenue Tertinggi:**(\$147,608.60)
 
-## 📌 Fitur Dashboard
+## Fitur Dashboard
 
 - **Slicer/filter** berdasarkan:
   - Tanggal pemesanan
@@ -38,12 +41,11 @@ Dashboard ini memberikan visualisasi performa penjualan pizza dari Januari 2015 
   - Line Chart: Tren pendapatan per bulan
   - Stacked Column: Pendapatan berdasarkan kategori dan ukuran pizza
 
-## 🧠 Tujuan Analisis
+## ujuan Analisis
 
 - Mengidentifikasi tren penjualan untuk mendukung keputusan bisnis
 - Mengetahui produk paling laris dan menguntungkan
 - Menentukan strategi marketing berdasarkan waktu dan kategori yang potensial
 
-## 📂 Struktur Repository
 
 
