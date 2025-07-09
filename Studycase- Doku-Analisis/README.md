@@ -1,6 +1,12 @@
-# 📉 Stock Price Prediction with LSTM
+# KYC Marketing Campaign Analysis (2021–2024)
 
-This project builds an LSTM-based deep learning model to predict stock prices (GGRM).
+Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi pelanggan, dan kinerja merchant menggunakan data transaksi dari tahun 2021 hingga 2024. Analisis dilakukan menggunakan Python, SQL, dan Tableau.
+
+---
+
+## 📁 Struktur Project
+
+
 
 ## 🧰 Tools Used
 - Python, TensorFlow, Keras
