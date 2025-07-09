@@ -51,6 +51,7 @@ Mekari merupakan perusahaan SaaS yang berkembang pesat sejak 2015, dan kini memi
 
 ## Visualisasi Dashboard (Tableau)
 📌 File: [Dashboard Mekari](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Mekari-Analisis/dashboard/Dashboard%201%20(7).png)
+          [Tableau Public](https://public.tableau.com/app/profile/gilang.gemilang/vizzes)
 - Gaji per jam per cabang per bulan
 
 - Peta cabang dengan efektivitas tertinggi dan terendah
