@@ -26,7 +26,7 @@ Dashboard ini memberikan visualisasi performa penjualan pizza dari Januari 2015 
   2. The Barbecue Chicken Pizza
   3. The Hawaiian Pizza
 - **Bulan dengan Revenue Tertinggi:** Mei 2015 (\$35,471.60)
-- **Kategori classic dengan Revenue Tertinggi:**(\$147,608.60)
+- **Kategori classic menjadi Revenue Tertinggi sebesar:**(\$147,608.60)
 
 ## Fitur Dashboard
 
