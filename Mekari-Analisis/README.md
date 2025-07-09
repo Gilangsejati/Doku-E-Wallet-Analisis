@@ -20,27 +20,39 @@ Tableau: Untuk membuat dasbor interaktif guna mendukung pengambilan keputusan st
 
 # Alur Pengerjaan
 ## Persiapan & Pembersihan Data (Python)
-Menggabungkan beberapa file sumber menjadi satu dataset.
+- Menggabungkan beberapa file sumber menjadi satu dataset.
 
-Membersihkan data kosong, anomali pada tanggal, serta formatting kolom.
+- Membersihkan data kosong, anomali pada tanggal, serta formatting kolom.
 
 ### Transformasi Data (Python)
-Menghitung jam kerja harian menggunakan data check-in dan check-out.
+- Menghitung jam kerja harian menggunakan data check-in dan check-out.
 
-Menghitung jumlah hari kerja per karyawan setiap bulan.
+- Menghitung jumlah hari kerja per karyawan setiap bulan.
 
 ### Analisis Eksploratori (EDA)
-Visualisasi distribusi gaji, jam kerja, dan masa kerja.
+- Visualisasi distribusi gaji, jam kerja, dan masa kerja.
 
-Melihat tren cabang dengan efisiensi tertinggi dan terendah.
+- Melihat tren cabang dengan efisiensi tertinggi dan terendah.
 
 ## SQL Lanjutan – Skor Efektivitas Penggajian
 Perhitungan:
 
-Jam kerja per bulan (TIMESTAMPDIFF)
+- Jam kerja per bulan (TIMESTAMPDIFF)
 
-Masa kerja (DATEDIFF antara join_date dan resign_date atau current_date)
+- Masa kerja (DATEDIFF antara join_date dan resign_date atau current_date)
 
-Normalisasi data: skala 0–1 (Min-Max Scaling)
+- Normalisasi data: skala 0–1 (Min-Max Scaling)
 
-Perhitungan skor akhir:
+- Menandai karyawan dengan skor efektivitas rendah sebagai kandidat PHK.
+
+## Visualisasi Dashboard (Tableau)
+
+- Gaji per jam per cabang per bulan
+
+- Peta cabang dengan efektivitas tertinggi dan terendah
+
+- Tren jam kerja vs efektivitas
+
+- Tabel kandidat PHK berdasarkan skor efektivitas
+
+
