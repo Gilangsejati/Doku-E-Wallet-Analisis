@@ -1,31 +1,49 @@
-KYC Marketing Campaign Analysis (2021–2024)
+# 🍕 Pizza Sales Performance Dashboard
 
-Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi pelanggan, dan kinerja merchant menggunakan data transaksi dari tahun 2021 hingga 2024. Analisis dilakukan menggunakan Python, SQL, dan Tableau.
+![Dashboard Preview](dashboard_pizza.png)
 
----
+## 📊 Deskripsi Proyek
 
-## 📁 Struktur Project
+Dashboard ini memberikan visualisasi performa penjualan pizza dari Januari 2015 hingga Januari 2016. Dibuat untuk membantu tim penjualan dan manajemen dalam menganalisis tren penjualan, kategori produk, dan performa setiap varian pizza berdasarkan kuantitas maupun pendapatan.
+
+## 🔧 Tools dan Teknologi
+
+- Microsoft Excel / Power BI / Tableau (tergantung platform yang digunakan)
+- Dataset transaksi penjualan pizza
+- Visualisasi interaktif (slicer/filter untuk waktu, ukuran, kategori, dan nama pizza)
+
+## 📈 Ringkasan Insight
+
+- **Total Revenue:** \$398,036.80
+- **Total Orders:** 14,881 pesanan
+- **Average Order Value (AOV):** \$26.75
+- **Kategori Terlaris (berdasarkan kuantitas):** Classic (40%)
+- **Top 3 Pizza Terlaris:**
+  1. The Classic Deluxe Pizza
+  2. The Barbecue Chicken Pizza
+  3. The Hawaiian Pizza
+- **Bulan dengan Revenue Tertinggi:** Mei 2015 (\$35,471.60)
+- **Kategori dengan Revenue Tertinggi:** Classic (\$147,608.60)
+
+## 📌 Fitur Dashboard
+
+- **Slicer/filter** berdasarkan:
+  - Tanggal pemesanan
+  - Ukuran pizza (S, M, L, XL, XXL)
+  - Kategori pizza (Classic, Chicken, Supreme, Veggie)
+  - Nama pizza
+- **Visualisasi:**
+  - Donut Chart: Distribusi kuantitas per kategori pizza
+  - Bar Chart: Top 10 pizza berdasarkan kuantitas
+  - Line Chart: Tren pendapatan per bulan
+  - Stacked Column: Pendapatan berdasarkan kategori dan ukuran pizza
+
+## 🧠 Tujuan Analisis
+
+- Mengidentifikasi tren penjualan untuk mendukung keputusan bisnis
+- Mengetahui produk paling laris dan menguntungkan
+- Menentukan strategi marketing berdasarkan waktu dan kategori yang potensial
+
+## 📂 Struktur Repository
 
 
-
-## 📁 Dataset
-Contains transactional sales data from a retail superstore.
-
-## 🛠 Tools
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
-- MySQL (for SQL-based queries)
-
-## 🔍 Key Insights
-- West region has highest sales but lowest profit.
-- Office Supplies sell well but are less profitable.
-- Certain customer segments are highly unprofitable.
-
-## 📈 Example Visual
-![Sales by Region](./visuals/sales_by_region.png)
-
-## 🧪 How to Run
-```bash
-pip install -r requirements.txt
-```
-Open `notebook/analysis.ipynb` in Jupyter Lab.
