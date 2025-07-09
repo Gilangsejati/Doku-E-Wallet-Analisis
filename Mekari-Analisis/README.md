@@ -1,6 +1,12 @@
-# 📊 Superstore Sales Analysis
+KYC Marketing Campaign Analysis (2021–2024)
 
-This project explores the Superstore dataset to extract actionable business insights using Python and data visualization tools.
+Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi pelanggan, dan kinerja merchant menggunakan data transaksi dari tahun 2021 hingga 2024. Analisis dilakukan menggunakan Python, SQL, dan Tableau.
+
+---
+
+## 📁 Struktur Project
+
+
 
 ## 📁 Dataset
 Contains transactional sales data from a retail superstore.
