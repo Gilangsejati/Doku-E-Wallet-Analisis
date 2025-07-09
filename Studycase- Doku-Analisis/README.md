@@ -19,7 +19,8 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ## Bagian 2: EDA & Visualisasi (Python)
 
-📌 File: `https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/scripts/DOKU.ipynb`
+📌 File: `[DOKU.ipynb](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/scripts/DOKU.ipynb)
+`
 
 ### Insight yang Dicari
 - Pola belanja pelanggan Premium vs Non-Premium.
