@@ -42,10 +42,9 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 - Analisis korelasi dan visualisasi  
 - Hipotesis dan pengujian statistik  
 
-💻 **Teknologi:** Python, Pandas, NumPy, Seaborn, Matplotlib, SciPy
-
+💻 **Teknologi:** Python, Sql, Tableau
 📊 **Hasil:**  
-Anggaran dan jumlah vote memiliki korelasi tertinggi dengan pendapatan kotor, sedangkan nama perusahaan tidak berpengaruh signifikan.
+Memberikan landasan berbasis data untuk mempertimbangkan optimalisasi distribusi tenaga kerja dan potensi perubahan skema penggajian di beberapa cabang.
 
 ---
 
