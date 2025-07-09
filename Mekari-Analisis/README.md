@@ -24,7 +24,9 @@ Mekari merupakan perusahaan SaaS yang berkembang pesat sejak 2015, dan kini memi
 
 - Membersihkan data kosong, anomali pada tanggal, serta formatting kolom.
 
-### Transformasi Data (Python)
+### Preprocessing Data (Python)
+📌 File: [Analis Doku with python]([https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/scripts/DOKU.ipynb](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Mekari-Analisis/scripts/Data_Preprocessing_Mekari.ipynb))
+
 - Menghitung jam kerja harian menggunakan data check-in dan check-out.
 
 - Menghitung jumlah hari kerja per karyawan setiap bulan.
