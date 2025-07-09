@@ -52,7 +52,7 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ---
 
-## 📊 Bagian 4: Dashboard Tableau
+## 📊 Bagian 4: Dashboard Looker Studio
 
 📌 File: `dashboard/marketing_dashboard.twbx` atau link `.txt`
 
