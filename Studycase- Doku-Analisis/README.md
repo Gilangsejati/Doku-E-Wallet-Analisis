@@ -1,14 +1,14 @@
-# KYC Marketing Campaign Analysis (2021–2024)
+#KYC Marketing Campaign Analysis (2021–2024)
 
 Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi pelanggan, dan kinerja merchant menggunakan data transaksi dari tahun 2021 hingga 2024. Analisis dilakukan menggunakan Python, SQL, dan Tableau.
 
 ---
 
-## 🧹 Bagian 1: Persiapan & Pembersihan Data (Python)
+##Bagian 1: Persiapan & Pembersihan Data (Python)
 
 📌 File: `scripts/data_cleaning.py`, `notebooks/eda.ipynb`
 
-### ✅ Tahapan yang Dilakukan
+###Tahapan yang Dilakukan
 - **Filter data tahun 2021–2024** dari dataset mentah.
 - **Cleaning**: menghapus nilai kosong, mengoreksi tipe data, dan menghapus duplikat.
 - **KYC Labeling**: menambahkan kolom `is_premium` berdasarkan data:
@@ -17,16 +17,16 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ---
 
-## 📊 Bagian 2: EDA & Visualisasi (Python)
+##Bagian 2: EDA & Visualisasi (Python)
 
 📌 File: `notebooks/eda.ipynb`, `visuals/`
 
-### 🎯 Insight yang Dicari
+###Insight yang Dicari
 - Pola belanja pelanggan Premium vs Non-Premium.
 - Kategori merchant dengan performa tinggi.
 - Pola waktu dan volume transaksi tahunan.
 
-### 📈 Tools
+###Tools
 - `matplotlib`, `seaborn` untuk visualisasi seperti:
   - Distribusi pengeluaran pelanggan
   - Korelasi antar variabel numerik
