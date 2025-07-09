@@ -8,7 +8,7 @@ Dashboard ini memberikan visualisasi performa penjualan pizza dari Januari 2015 
 
 ## 🔧 Tools dan Teknologi
 
-- Microsoft Excel / Power BI / Tableau (tergantung platform yang digunakan)
+- Microsoft Excel 
 - Dataset transaksi penjualan pizza
 - Visualisasi interaktif (slicer/filter untuk waktu, ukuran, kategori, dan nama pizza)
 
