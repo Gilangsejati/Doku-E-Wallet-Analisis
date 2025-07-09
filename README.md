@@ -68,17 +68,22 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 
 ---
 
-### 🏘️ Pembersihan Data Perumahan Nashville
+### Doku Marketing Campaign Analysis (2021–2024)
 
-📁 **Kode:** `Nashville Housing.sql`
+📌 File:  [Doku Marketing Campaign Analysis (2021–2024)](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/tree/main/Studycase-%20Doku-Analisis)  
 
-📝 **Deskripsi:**  
-Dataset ini mencakup rumah-rumah yang terjual di Nashville antara 2013–2019. Proyek fokus pada pembersihan dan penataan ulang data agar siap untuk dianalisis.
+**Tujuan:** Menganalisis efektivitas kampanye pemasaran, segmentasi pelanggan, dan performa merchant berdasarkan data transaksi DOKU tahun 2021–2024.
 
-🛠️ **Keterampilan:**  
-DML (Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language)
+**Deskripsi:** Proyek ini mencakup pembersihan data, pelabelan pelanggan Premium, analisis eksploratori, dan visualisasi kampanye. Python digunakan untuk EDA dan segmentasi, SQL untuk menjawab pertanyaan bisnis, dan Looker Studio untuk pembuatan dashboard interaktif.
 
-💻 **Teknologi:** SQL Server
+**Keterampilan:**  
+- Python: Pembersihan data, pelabelan pelanggan, analisis distribusi & korelasi, visualisasi EDA
+- SQL: Query untuk kampanye terbaik, kategori merchant teratas, segmentasi pelanggan, dan perbandingan performa Premium vs Non-Premium
+- Looker Studio: Visualisasi tren transaksi, performa merchant, dan segmentasi pengeluaran pelanggan  
+
+**Teknologi:** Python (Pandas, Seaborn, Matplotlib), SQL, Looker Studio
+
+**Hasil:** Ditemukan bahwa kampanye diskon kecil seperti "CEBAN" paling efektif dalam menarik volume transaksi tinggi. Sebagian besar pendapatan berasal dari segelintir merchant besar. Pelanggan Premium mendominasi transaksi, namun pelanggan Non-Premium tetap berkontribusi signifikan. Pola musiman terlihat pada bulan-bulan seperti Agustus, dengan rata-rata frekuensi transaksi per pengguna sekitar 4–5 kali. Total lebih dari 100.000 transaksi dari 23.000 pelanggan unik mengindikasikan potensi pertumbuhan basis pengguna DOKU. 
 
 ---
 
