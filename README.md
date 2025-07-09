@@ -64,8 +64,7 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 
 **Teknologi:** Microsoft Excel
 
-**Hasil:**  
-Excel digunakan untuk menganalisis performa penjualan pizza berdasarkan data transaksi selama satu tahun. Hasil analisis menunjukkan bahwa kategori Classic merupakan yang paling laris dan menyumbang pendapatan tertinggi. 
+**Hasil:** Excel digunakan untuk menganalisis performa penjualan pizza berdasarkan data transaksi selama satu tahun. Hasil analisis menunjukkan bahwa kategori Classic merupakan yang paling laris dan menyumbang pendapatan tertinggi. 
 ---
 
 ### 🏘️ Pembersihan Data Perumahan Nashville
