@@ -112,13 +112,12 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 
 Berikut adalah daftar sertifikat yang telah saya peroleh (urutan terbaru):
 
-- **Sertifikat Studi Independen Kampus Merdeka**  
+- **Data Analytics For Bussines, Sertifikat Studi Independen Kampus Merdeka**  
   (Bitlabs Academy) – Desember 2024
 
 
-- **Bootcamp Data Analysis**
-  
-  (My Skill) – Juli 2024
+- **Bootcamp Data Analysis**  
+  (Myskill) – Juli 2024
   
 ---
 
