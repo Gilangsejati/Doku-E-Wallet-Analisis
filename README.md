@@ -117,6 +117,7 @@ Berikut adalah daftar sertifikat yang telah saya peroleh (urutan terbaru):
 
 
 - **Bootcamp Data Analysis**
+  
   (My Skill) – Juli 2024
   
 ---
