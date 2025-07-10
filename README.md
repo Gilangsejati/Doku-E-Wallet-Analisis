@@ -16,7 +16,7 @@ Mahasiswa Informatika semester 6 di Universitas Amikom Yogyakarta dengan minat k
 
 ---
 
-## 🧪 Proyek Portofolio
+## Proyek Portofolio
 
 Di bagian ini saya mencantumkan beberapa proyek data analytics yang telah saya kerjakan, lengkap dengan deskripsi singkat dan teknologi yang digunakan.
 
@@ -105,7 +105,7 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 
 ---
 
-## 📜 Sertifikat
+## Sertifikat
 
 Berikut adalah daftar sertifikat yang telah saya peroleh (urutan terbaru):
 
@@ -118,7 +118,7 @@ Berikut adalah daftar sertifikat yang telah saya peroleh (urutan terbaru):
   
 ---
 
-## 📬 Kontak
+## Kontak
 
 - 💼 LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tiannaparris)
 - ✉️ Email: gilangsejati339@gmail.com
