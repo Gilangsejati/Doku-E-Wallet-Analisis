@@ -112,21 +112,18 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 
 Berikut adalah daftar sertifikat yang telah saya peroleh (urutan terbaru):
 
-- **Google Data Analytics Professional Certificate**  
-  (Coursera - Google) – September 2022
+- **Sertifikat Studi Independen Kampus Merdeka**  
+  (Bitlabs Academy) – Desember 2024
 
-- **Tableau for Data Visualization**  
-  (Coursera - UC Davis) – Oktober 2022
-
-- **Python for Data Science**  
-  (Coursera - University of Colorado Boulder) – Februari 2023
-
+- **Bootcampo Data Analysis**
+  (My Skill) – Juli 2024
+  
 ---
 
 ## 📬 Kontak
 
 - 💼 LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tiannaparris)
-- ✉️ Email: parristianna@yahoo.com
+- ✉️ Email: gilangsejati339@gmail.com
 
 ---
 
