@@ -11,11 +11,11 @@ Repositori ini saya buat untuk menampilkan keterampilan, membagikan proyek-proye
 
 ## Daftar Isi
 
-- [Tentang Saya](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/README.md#tentang-saya)
-- [Proyek Portofolio](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/README.md#-proyek-portofolio)
+- [Tentang Saya](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/tree/main?tab=readme-ov-file#tentang-saya)
+- [Proyek Portofolio](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/tree/main?tab=readme-ov-file#-proyek-portofolio)
 - [Pendidikan](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/tree/main?tab=readme-ov-file#-pendidikan)
-- [Sertifikat](#sertifikat)
-- [Kontak](#kontak)
+- [Sertifikat](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/tree/main?tab=readme-ov-file#-sertifikat)
+- [Kontak](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/tree/main?tab=readme-ov-file#-kontak)
 
 ---
 
