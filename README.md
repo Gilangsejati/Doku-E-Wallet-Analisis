@@ -2,11 +2,7 @@
 
 ## Tentang Saya
 
-Halo! Saya **Gilang**, berlatar belakang akademik di bidang **Biokimia** dan saat ini sedang menyelesaikan studi **Magister Sains di Data Science (M.S. Data Science)**. Saya memiliki fondasi yang kuat di bidang ilmu hayati serta semangat besar dalam menggunakan data untuk mengungkap wawasan yang bermakna.
-
-Selama masa studi, saya terbiasa bekerja dengan data yang kompleks dan memiliki kemampuan dalam mengidentifikasi pola serta tren penting. Saya juga memiliki pengalaman dalam teknik laboratorium, manajemen data, dan analisis statistik—yang semuanya menjadi bekal berharga untuk berkarier sebagai spesialis data pemula.
-
-Di waktu luang, saya senang mengeksplorasi tools dan teknik baru dalam analisis data, serta terus mengembangkan pengetahuan dan keterampilan saya. Baik bekerja dalam tim maupun secara mandiri, saya selalu bersemangat dalam menemukan insight baru dan menyelesaikan permasalahan melalui data.
+Mahasiswa Informatika semester 6 di Universitas Amikom Yogyakarta dengan minat kuat di bidang analisis data. Memahami dasar statistik, Mengolah data di Excel/Spreadsheet, SQL, dan Python serta terbiasa membuat visualisasi data menggunakan Tableau, Power BI dan Looker Studio. Aktif mengembangkan diri melalui proyek analisis data mandiri dan kesempatan magang di lingkup profesional.
 
 📄 CV saya tersedia dalam format PDF.  
 Repositori ini saya buat untuk menampilkan keterampilan, membagikan proyek-proyek, dan melacak perkembangan saya dalam bidang **Data Analytics** dan **Data Science**.
