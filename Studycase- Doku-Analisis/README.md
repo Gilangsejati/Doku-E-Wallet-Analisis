@@ -4,9 +4,9 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ---
 
-## Persiapan & Pembersihan Data (Python)
+## EDA & Visualisasi (Python)
 
-📌 File: `scripts/data_cleaning.py`, `notebooks/eda.ipynb`
+📌 File: [Analis Doku with python](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/scripts/DOKU.ipynb)
 
 ### Tahapan yang Dilakukan
 - **Filter data tahun 2021–2024** dari dataset mentah.
@@ -14,14 +14,6 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 - **KYC Labeling**: menambahkan kolom `is_premium` berdasarkan data:
   - Jika kolom **kota**, **pekerjaan**, dan **usia** tidak kosong → pelanggan dianggap **Premium**.
 - **Muat ke Pandas DataFrame** untuk analisis lebih lanjut.
-
----
-
-## EDA & Visualisasi (Python)
-
-📌 File: [Analis Doku with python](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/scripts/DOKU.ipynb)
-
-
 
 ### Insight yang Dicari
 - Pola belanja pelanggan Premium vs Non-Premium.
