@@ -106,17 +106,9 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 
 ## 🎓 Pendidikan
 
-- **University of Colorado, Boulder**  
-  *Magister Sains (M.S.) di Data Science*  
-  Desember 2022 – Desember 2024
-
-- **University of the West Indies, Mona**  
-  *Sarjana Biokimia dan Biologi Molekuler*  
-  2019 – 2022
-
-- **Pre University School**  
-  *Associate Degree – Sains dan Matematika*  
-  2017 – 2019
+- **University of Amikom, Yogyakarta**  
+  *S1 Informartika*  
+  2022 – now
 
 ---
 
