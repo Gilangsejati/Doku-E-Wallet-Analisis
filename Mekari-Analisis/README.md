@@ -72,3 +72,11 @@ Mekari merupakan perusahaan SaaS yang berkembang pesat sejak 2015, dan kini memi
   
 Tableau : [Tableau Public](https://public.tableau.com/app/profile/gilang.gemilang/vizzes)
 
+## Conclusion 
+Ketidakseimbangan pada dataset terjadi karena terdapat beberapa karyawan yang tidak melakukan check-in dan check-out di cabang serta bulan tertentu. Akibatnya, dalam perhitungan analisis gaji, terdapat dua cabang yang hasilnya NULL atau tidak menunjukkan aktivitas check-in dan check-out pada pertengahan tahun.
+
+## Rekomendasi 
+- mengkaji ulang alokasi anggaran penggajian
+- menerapkan skema penggajian berbasis performa
+- karyawan dengan skor efektivitas tinggi dapat dilibatkan dalam program mentoring
+
