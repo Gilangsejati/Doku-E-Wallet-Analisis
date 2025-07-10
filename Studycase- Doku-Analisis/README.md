@@ -4,34 +4,20 @@ Proyek ini bertujuan untuk menganalisis performa penjualan, segmentasi pelanggan
 
 ---
 
-## 🧹 Data Preparation (Python)
-📌 `scripts/data_cleaning.py`, `notebooks/eda.ipynb`
+## Analisis With Python
+📌 File: [Analis with python](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Superstore-Analisis/scripts/Superstore.ipynb)
 
-**Langkah-langkah yang dilakukan:**
-- Filter data tahun 2014–2017
-- Data Cleaning:
-  - Menghapus nilai kosong
-  - Koreksi tipe data (`Order Date`, `Sales`, dll)
-  - Hapus duplikat
-- Enrichment:
-  - Tambah kolom `Year`, `Month`, dan `Profit Margin`
-- Export ke CSV → digunakan dalam Power BI dan SQL
+Data dibersihkan dan dieksplorasi menggunakan **pandas**, **matplotlib**, dan **seaborn**. Proses mencakup:
+- Konversi tipe data dan penghapusan null/duplikat
+- Penambahan kolom `Year`, `Month`, dan `Profit Margin`
+- Visualisasi tren penjualan dan profit
+- Analisis kategori, segmen pelanggan, dan dampak diskon terhadap profit
+- Heatmap korelasi antar variabel numerik
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
-📌 `notebooks/eda.ipynb`
-
-Visualisasi awal untuk menggali struktur data dan hubungan antar variabel:
-- Tren waktu penjualan dan profit
-- Korelasi diskon terhadap profit
-- Distribusi pelanggan per segmen
-- Kinerja per kategori dan sub-kategori produk
-
----
-
-## 🧠 Business Questions & SQL Analysis
-📌 `sql/analisis_superstore.sql`
+## Business Questions & SQL Analysis
+📌 File: [Analis with Sql](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Superstore-Analisis/sql/Superstore%20analisis%20with%20sql.sql)
 
 Analisis dilakukan untuk menjawab pertanyaan strategis seperti:
 
@@ -45,8 +31,8 @@ Analisis dilakukan untuk menjawab pertanyaan strategis seperti:
 
 ---
 
-## 📈 Dashboard Power BI
-📌 `dashboard/Superstore_Report.pbix`
+## Dashboard Power BI
+📌 File: [Dashboard Superstore](file:///C:/PORTOFOLIO%20DATA%20ANALYST/Superstore-Analisis/dashboard/superstore.pdf)
 
 ### 🎯 Fitur Dashboard:
 - **KPI Card**:
@@ -63,7 +49,7 @@ Analisis dilakukan untuk menjawab pertanyaan strategis seperti:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 - Kategori Furniture menyumbang penjualan tertinggi, namun profit tertinggi berasal dari Technology.
 - Produk seperti Phones, Copiers, dan Binders memiliki kontribusi signifikan terhadap profit.
 - Beberapa sub-kategori seperti Tables dan Bookcases mengalami kerugian meskipun memiliki volume penjualan tinggi.
@@ -72,17 +58,12 @@ Analisis dilakukan untuk menjawab pertanyaan strategis seperti:
 
 ---
 
-## ✅ Rekomendasi
+## Rekomendasi
 Fokuskan promosi pada produk dan sub-kategori dengan margin profit tinggi (misal: Copiers, Phones). Evaluasi strategi harga/diskon pada sub-kategori yang merugi. Perkuat hubungan dengan segmen pelanggan Corporate untuk meningkatkan margin. Gunakan pola musiman dan tren historis untuk perencanaan stok dan kampanye penjualan.
 
 ---
 
-## 🛠 Tools
-- Power BI – Visualisasi dashboard interaktif
-- SQL (MySQL) – Query analisis bisnis
-- Python (pandas, seaborn, matplotlib) – Data wrangling & EDA
 
----
 
 
 
