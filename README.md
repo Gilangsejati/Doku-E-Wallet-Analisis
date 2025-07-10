@@ -87,34 +87,22 @@ Proyek ini menganalisis data film yang dirilis antara tahun 1980 hingga 2022. Da
 
 ---
 
-### 🦠 Eksplorasi Data Covid-19
+### Superstore Sales Analysis (2014–2017)
 
-📁 **Kode:** `COVID Portfolio Project.sql`
+📌 File:  [Superstore Sales Analysis (2014–2017)](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/tree/main/Superstore-Analisis)  
 
-📝 **Deskripsi:**  
-Dataset mencakup data kasus, kematian, dan vaksinasi Covid-19 global tahun 2020–2021. Proyek ini mencakup pembersihan data, eksplorasi, dan pembuatan visualisasi.
+**Tujuan:** Menganalisis performa penjualan, segmentasi pelanggan, dan profitabilitas produk untuk mendukung pengambilan keputusan bisnis ritel berbasis data.
 
-🛠️ **Keterampilan:**  
-Join, CTE, Temp Tables, Fungsi Windows, Aggregation, Views, Konversi Tipe Data
+**Deskripsi:** Proyek ini mencakup pembersihan dan eksplorasi data penjualan Superstore menggunakan Python, analisis bisnis menggunakan SQL, serta visualisasi interaktif dalam Power BI. Fokus utama mencakup identifikasi produk paling menguntungkan/rugi, perilaku pelanggan per segmen, dan analisis wilayah berdasarkan performa penjualan dan profit.
 
-💻 **Teknologi:** SQL Server
+**Keterampilan:**  
+- Python: Import dan pembersihan data (Order Date, Ship Date, duplikat, missing values), analisis tren penjualan dan profit tahunan, distribusi kategori produk, segmentasi pelanggan, scatter plot diskon vs profit, serta heatmap korelasi numerik.
+- SQL: Query untuk tren penjualan bulanan, 10 produk terlaris, wilayah dan kategori paling menguntungkan/merugi, serta segmentasi pelanggan berdasarkan total pengeluaran.
+- Power BI: Dashboard interaktif mencakup KPI penjualan, tren profit, analisis per kategori/sub-kategori, peta jumlah transaksi per wilayah, dan segmentasi pelanggan.
 
----
+**Teknologi:** Python (Pandas, Seaborn, Matplotlib), SQL (MySQL), Power BI
 
-### 🔮 Analisis Pokémon Legendaris
-
-📁 **Kode:** `Legendary Pokémon Analysis` *(Proyek Studi)*  
-🎯 **Tujuan:** Memprediksi status Pokémon (legendary atau tidak) berdasarkan karakteristiknya.
-
-📝 **Deskripsi:**  
-Dataset memuat karakteristik Pokémon seperti tipe, attack, defense, dan ukuran. Proyek mencakup pembersihan data dan analisis eksploratif.
-
-🛠️ **Keterampilan:**  
-Data cleaning, visualisasi, eksplorasi karakteristik
-
-💻 **Teknologi:** R (Tidyverse)
-
----
+**Hasil:** Ditemukan bahwa kategori Technology memiliki profit tertinggi meskipun Furniture mencatatkan volume penjualan tertinggi. Produk seperti Phones, Copiers, dan Binders sangat menguntungkan, sedangkan Tables dan Bookcases merugi meski penjualannya tinggi. Segment Consumer mendominasi jumlah transaksi, namun Corporate memiliki margin profit lebih besar. Total lebih dari 5.000 order dengan penjualan senilai $1.13B dan profit $1.80B menunjukkan potensi bisnis ritel yang solid.
 
 ## 🎓 Pendidikan
 
