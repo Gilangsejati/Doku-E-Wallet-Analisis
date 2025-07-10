@@ -9,7 +9,6 @@ Proyek ini bertujuan untuk menganalisis performa penjualan, segmentasi pelanggan
 
 Data dibersihkan dan dieksplorasi menggunakan **pandas**, **matplotlib**, dan **seaborn**. Proses mencakup:
 - Konversi tipe data dan penghapusan null/duplikat
-- Penambahan kolom `Year`, `Month`, dan `Profit Margin`
 - Visualisasi tren penjualan dan profit
 - Analisis kategori, segmen pelanggan, dan dampak diskon terhadap profit
 - Heatmap korelasi antar variabel numerik
