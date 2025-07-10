@@ -4,9 +4,6 @@
 
 Mahasiswa Informatika semester 6 di Universitas Amikom Yogyakarta dengan minat kuat di bidang analisis data. Memahami dasar statistik, Mengolah data di Excel/Spreadsheet, SQL, dan Python serta terbiasa membuat visualisasi data menggunakan Tableau, Power BI dan Looker Studio. Aktif mengembangkan diri melalui proyek analisis data mandiri dan kesempatan magang di lingkup profesional.
 
-📄 CV saya tersedia dalam format PDF.  
-Repositori ini saya buat untuk menampilkan keterampilan, membagikan proyek-proyek, dan melacak perkembangan saya dalam bidang **Data Analytics** dan **Data Science**.
-
 ---
 
 ## Daftar Isi
