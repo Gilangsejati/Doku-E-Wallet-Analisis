@@ -9,11 +9,11 @@ Repositori ini saya buat untuk menampilkan keterampilan, membagikan proyek-proye
 
 ---
 
-## 🗂️ Daftar Isi
+## Daftar Isi
 
 - [Tentang Saya](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/README.md#tentang-saya)
-- [Proyek Portofolio](#proyek-portofolio)
-- [Pendidikan](#pendidikan)
+- [Proyek Portofolio](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/README.md#-proyek-portofolio)
+- [Pendidikan](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/README.md#-pendidikan)
 - [Sertifikat](#sertifikat)
 - [Kontak](#kontak)
 
