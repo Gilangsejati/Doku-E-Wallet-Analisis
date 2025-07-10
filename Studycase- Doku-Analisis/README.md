@@ -4,7 +4,7 @@ Proyek ini bertujuan untuk menganalisis performa kampanye pemasaran, segmentasi 
 
 ---
 
-## EDA & Visualisasi (Python)
+## Analisis with python
 
 📌 File: [Analis Doku with python](https://github.com/Gilangsejati/Doku-E-Wallet-Analisis/blob/main/Studycase-%20Doku-Analisis/scripts/DOKU.ipynb)
 
