@@ -115,7 +115,8 @@ Berikut adalah daftar sertifikat yang telah saya peroleh (urutan terbaru):
 - **Sertifikat Studi Independen Kampus Merdeka**  
   (Bitlabs Academy) – Desember 2024
 
-- **Bootcampo Data Analysis**
+
+- **Bootcamp Data Analysis**
   (My Skill) – Juli 2024
   
 ---
