@@ -32,7 +32,7 @@ Analisis dilakukan untuk menjawab pertanyaan strategis seperti:
 ---
 
 ## Dashboard Power BI
-📌 File: [Dashboard Superstore](file:///C:/PORTOFOLIO%20DATA%20ANALYST/Superstore-Analisis/dashboard/superstore.pdf)
+📌 File: [Dashboard Superstore] (file:///C:/PORTOFOLIO%20DATA%20ANALYST/Superstore-Analisis/dashboard/superstore.pdf)
 
 ### 🎯 Fitur Dashboard:
 - **KPI Card**:
