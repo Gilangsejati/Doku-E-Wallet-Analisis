@@ -120,7 +120,7 @@ Berikut adalah daftar sertifikat yang telah saya peroleh (urutan terbaru):
 
 ## Kontak
 
-- 💼 LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tiannaparris)
+- 💼 LinkedIn: [@gilangsejati](https://www.linkedin.com/in/gilang-sejati-45801330b/)
 - ✉️ Email: gilangsejati339@gmail.com
 
 ---
